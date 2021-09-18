@@ -1,6 +1,6 @@
 # FIREFOX AUTOMATED WHATSAPP WEB MESSAGE SENDER #
 
- This code was written for NON spam purpose and any such use is beyond the responsibility of its creator and contributors.
+ This code was written for NON spam purpose and any such use is beyond the responsibility of its creator and collaborators.
 
 How to use:
 Create an excel file (.xlsx) with a single non headed column containing either contacts, phone numbers or both.
